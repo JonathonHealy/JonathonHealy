@@ -1,9 +1,12 @@
 int you = 1;
 
 if (you == 1){
-  talkToMe(null);
+
+    talkToMe(null);
+  
 } else {
-  walkAway();
+
+    walkAway();
 
 
 <!---
