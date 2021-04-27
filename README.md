@@ -1,13 +1,4 @@
-int you = 1;
-
-if (you == 1){
-
-    talkToMe(null);
-  
-} else {
-
-    walkAway();
-
+I don't know what I'm doing or why so please don't ask me quesitons
 
 <!---
 JonathonHealy/JonathonHealy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
