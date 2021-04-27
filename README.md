@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JonathonHealy
-- 👀 I’m interested in ... Godzilla
-- 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... don't
+int you = 1;
+
+if (you == 1){
+  talkToMe(null);
+} else {
+  walkAway();
+
 
 <!---
 JonathonHealy/JonathonHealy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
